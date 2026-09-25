@@ -6,7 +6,7 @@ Single-page nonprofit information site for GitHub Pages.
 
 1. Push this repository to the GitHub account `williamandleahdevs`.
 2. In **Settings → Pages**, choose **Deploy from a branch**, select the default branch, and choose `/root`.
-3. The published site should be available at [williamandleahdevs.github.io](https://williamandleahdevs.github.io).
+3. The published site is available at [williamandleahdevs.github.io/nonprofit-landing-page](https://williamandleahdevs.github.io/nonprofit-landing-page/).
 
 ## Before nonprofit verification
 
